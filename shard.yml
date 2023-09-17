@@ -4,10 +4,6 @@ version: 0.1.0
 authors:
   - makandat
 
-dependencies:
-  kingyo:
-    github: makandat/kingyo
-
 crystal: 1.9.2
 
 license: MIT
